@@ -10,6 +10,6 @@ The implementation is in the Python, Jupyter Notebook.
 
 If you are using this program, then kindly cite the following:
 
-Paper refernce
+Paper reference
 
 The test dataset can be downloaded from: https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks
